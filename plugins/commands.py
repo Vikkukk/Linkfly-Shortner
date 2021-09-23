@@ -46,7 +46,7 @@ ABOUT_TEXT = """--**About Me**--
 🤖 **Name :** [Link Shortner](https://telegram.me/{})
 👨‍💻 **Developer :** [Zaute Km](https://github.com/ZauteKm)
 📢 **Channel :** [TGBotsProJect](https://telegram.me/TGBotsProJect)
-🗣️ **Feedback :** [Contqct here](https://telegram.me/zautebot)
+🗣️ **Feedback :** [Contact here](https://telegram.me/zautebot)
 🌐 **Source :** [👉 Click here](https://github.com/ZauteKm/URL-Shortner-Bot)
 📝 **Language :** [Python3](https://python.org)
 🧰 **Framework :** [Pyrogram](https://pyrogram.org)
