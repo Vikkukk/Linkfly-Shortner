@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto
+pyshorteners
+aiohttp
+motor
+motor
+aiofiles
+dnspython
