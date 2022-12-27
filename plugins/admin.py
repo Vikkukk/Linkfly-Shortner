@@ -56,7 +56,7 @@ class Database:
                 "short.cm": True,
                 "tinyurl.com": True,
                 "0x0.st": True,
-                "ttm.sh": True
+                "linkfly.me": True
             }
         }
     
