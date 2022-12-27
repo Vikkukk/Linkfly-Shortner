@@ -23,7 +23,7 @@ I am a LInk Shortner Telegram Bot.
 
 >> `I can short any type of link`
 
-Made with by ❤️ @ZauteKm"""
+Made with by ❤️ @victorlctt"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -39,15 +39,15 @@ HELP_TEXT = """**Hey, Follow these steps:**
 /settings - For bot settings
 /reset - For reset bot settings
 
-Made with by ❤️ @ZauteKm"""
+Made with by ❤️ @victorlctt"""
 
 ABOUT_TEXT = """--**About Me**--
 
 🤖 **Name :** [Link Shortner](https://telegram.me/{})
-👨‍💻 **Developer :** [Zaute Km](https://github.com/ZauteKm)
-📢 **Channel :** [TGBotsProJect](https://telegram.me/TGBotsProJect)
-🗣️ **Feedback :** [Contact here](https://telegram.me/zautebot)
-🌐 **Source :** [👉 Click here](https://github.com/ZauteKm/URL-Shortner-Bot)
+👨‍💻 **Developer :** [Zaute Km](https://github.com/Vikkukk)
+📢 **Channel :** [TGBotsProJect](https://t.me/movierequestbackup1)
+🗣️ **Feedback :** [Contact here](https://telegram.me/Vikkukk)
+🌐 **Source :** [👉 Click here](https://github.com/Vikkukk/Linkfly-Shortner)
 📝 **Language :** [Python3](https://python.org)
 🧰 **Framework :** [Pyrogram](https://pyrogram.org)
 📡 **Server :** [Heroku](https://heroku.com)"""
