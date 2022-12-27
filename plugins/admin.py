@@ -104,7 +104,7 @@ class Database:
 
 
 BOT_OWNER = int(os.environ.get("1889791911"))
-DATABASE = os.environ.get("DATABASE")
+DATABASE = os.environ.get("mongodb+srv://Vikkukk:<password>@cluster0.kcifuy0.mongodb.net/?retryWrites=true&w=majority")
 db = Database(DATABASE, "FnURLShortBot")
 broadcast_ids = {}
 
