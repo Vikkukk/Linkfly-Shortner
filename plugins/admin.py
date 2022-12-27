@@ -103,7 +103,7 @@ class Database:
         )
 
 
-BOT_OWNER = int(os.environ.get("BOT_OWNER"))
+BOT_OWNER = int(os.environ.get("1889791911"))
 DATABASE = os.environ.get("DATABASE")
 db = Database(DATABASE, "FnURLShortBot")
 broadcast_ids = {}
